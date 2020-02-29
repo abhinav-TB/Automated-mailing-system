@@ -1,0 +1,14 @@
+{
+  "name": "automated-mail",
+  "version": "1.0.0",
+  "description": "mail app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "abhinav",
+  "license": "ISC",
+  "dependencies": {
+    "nodemailer": "^6.4.3"
+  }
+}
